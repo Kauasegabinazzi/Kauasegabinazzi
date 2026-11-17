@@ -6,6 +6,7 @@ Software engineer moving into **gameplay programming**. I write C# for a living 
 
 | Project | What it is |
 | --- | --- |
+| [**ChessMania**](https://github.com/Kauasegabinazzi/ChessMania) | Work in progress: chess roguelike in Unity 6 (C#). Score points with captures and checks to beat each round, then spend gold in a shop to upgrade your army. Pure C# game core and minimax AI, covered by unit tests. |
 | [**BloodLost**](https://github.com/Kauasegabinazzi/BloodLost) | 2D castle action game written in Python with Pygame, no engine. Whip and knife combat, five stages, a Dracula boss fight, and colour-vision modes for colour-blind players. |
 | [**Solar System**](https://github.com/Kauasegabinazzi/SolarSystem) | Interactive 3D solar system in Unity 6 (C#): orbits drawn from vector maths, click a planet to focus the camera. |
 | [**DirectGame**](https://github.com/Kauasegabinazzi/DirectGame-C-studies) | Work in progress: a small C++ game framework on Win32, the base for a Direct3D renderer. |
